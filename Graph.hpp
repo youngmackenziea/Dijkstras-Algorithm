@@ -1,6 +1,3 @@
-//  Created by Juliana El Rayes (U03559866), Jacob Hansen (U06857679),
-//  Mackenzie Young (U07909347) and Maggie Liott (U41847753) on 7/12/22.
-
 #ifndef GRAPH_H
 #define GRAPH_H
 
